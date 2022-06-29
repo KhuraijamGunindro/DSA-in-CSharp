@@ -13,3 +13,5 @@ some more advanced topic like stack and all. And most importantly helping each o
 
 As I'm a C#/Dotnet developer I've always to do DSA with C# but there was a problem most of the DSA courses were mainly written in C++, python and Java.
 So, I made my own C# DSA repository which will be improvised to a course later on. 
+
+<h2>How to install prerequisites</h2>
